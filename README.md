@@ -11,6 +11,10 @@ Les installateurs sont dans la page **[Releases](../../releases/latest)** :
 
 Les mises à jour se font ensuite depuis l’application (Paramètres › Mises à jour).
 
+## Guide de démarrage
+
+**[Télécharger le guide (PDF)](https://kaneis101.github.io/Avitus/Avitus-guide-demarrage.pdf)** : installer, créer l’arbre, explorer, partager. La présentation est sur [kaneis101.github.io/Avitus](https://kaneis101.github.io/Avitus/).
+
 ## Compte
 
 Crée ton profil avec ton adresse e-mail, un pseudo et un mot de passe. Si tu oublies ton mot de passe, « Mot de passe oublié ? » t’envoie un e-mail avec un lien pour en choisir un nouveau.
