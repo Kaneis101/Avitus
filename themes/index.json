@@ -15,22 +15,22 @@
       "id": "nocturne",
       "name": "Nocturne",
       "author": "Avitus",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "Thème sombre, nuit étoilée : barre flottante en haut, arbre en constellation dorée, étoiles qui scintillent et étoiles filantes.",
       "api": 1,
       "url": "https://raw.githubusercontent.com/Kaneis101/Avitus/main/themes/nocturne.avitus-theme",
-      "sha256": "931dd00e5031192fa990502539d9cacc378dab3686dcde525fb897eab5359998",
+      "sha256": "2c3f164c0294cd2970b21e501efcbb481558697154d932730b72e971748f533e",
       "preview": "https://raw.githubusercontent.com/Kaneis101/Avitus/main/themes/nocturne.png"
     },
     {
       "id": "registre",
       "name": "Registre paroissial",
       "author": "Avitus",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "Un registre ancien ouvert sur un bureau en bois : double pages, reliure et ruban, onglets sur la tranche, écriture à la plume.",
       "api": 1,
       "url": "https://raw.githubusercontent.com/Kaneis101/Avitus/main/themes/registre.avitus-theme",
-      "sha256": "ab05f1be119c61e1e0863cab14cb3db7cf6a4d219c59b6dc0efd1ec4335d1b75",
+      "sha256": "2459190f19de78c3ab21e22ccf6ef6e1ffbcb24b6315b6c1904f450c558dbb1d",
       "preview": "https://raw.githubusercontent.com/Kaneis101/Avitus/main/themes/registre.png"
     }
   ]
