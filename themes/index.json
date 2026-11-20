@@ -1,0 +1,37 @@
+{
+  "themes": [
+    {
+      "id": "carte-postale",
+      "name": "Carte postale",
+      "author": "Avitus",
+      "version": "1.1.0",
+      "description": "Un tableau de liège couvert de cartes postales : bandes courrier par avion, étiquettes kraft pour naviguer, polaroïds, épingles et écriture à la main.",
+      "api": 1,
+      "url": "https://raw.githubusercontent.com/Kaneis101/Avitus/main/themes/carte-postale.avitus-theme",
+      "sha256": "27b7f0aa36c66cc47a3554901550865c0a56e30ab85576c62523342d6967aa85",
+      "preview": "https://raw.githubusercontent.com/Kaneis101/Avitus/main/themes/carte-postale.png"
+    },
+    {
+      "id": "nocturne",
+      "name": "Nocturne",
+      "author": "Avitus",
+      "version": "1.0.0",
+      "description": "Thème sombre, nuit étoilée : barre flottante en haut, arbre en constellation dorée, étoiles qui scintillent et étoiles filantes.",
+      "api": 1,
+      "url": "https://raw.githubusercontent.com/Kaneis101/Avitus/main/themes/nocturne.avitus-theme",
+      "sha256": "931dd00e5031192fa990502539d9cacc378dab3686dcde525fb897eab5359998",
+      "preview": "https://raw.githubusercontent.com/Kaneis101/Avitus/main/themes/nocturne.png"
+    },
+    {
+      "id": "registre",
+      "name": "Registre paroissial",
+      "author": "Avitus",
+      "version": "1.0.0",
+      "description": "Un registre ancien ouvert sur un bureau en bois : double pages, reliure et ruban, onglets sur la tranche, écriture à la plume.",
+      "api": 1,
+      "url": "https://raw.githubusercontent.com/Kaneis101/Avitus/main/themes/registre.avitus-theme",
+      "sha256": "ab05f1be119c61e1e0863cab14cb3db7cf6a4d219c59b6dc0efd1ec4335d1b75",
+      "preview": "https://raw.githubusercontent.com/Kaneis101/Avitus/main/themes/registre.png"
+    }
+  ]
+}
